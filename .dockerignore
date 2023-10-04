@@ -1,0 +1,6 @@
+*
+!*.py
+!requirements.txt
+!SOURCE_DOCUMENTS
+!*.git
+!Dockerfile
